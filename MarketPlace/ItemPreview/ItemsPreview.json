@@ -1,0 +1,20 @@
+[
+  {
+    "ImageUrl": "Image1",
+    "Name": "BeoPlay Speaker",
+    "Brand": "Bang and Olufsen",
+    "Price": "$755"
+  },
+  {
+    "ImageUrl": "Image2",
+    "Name": "Leather Wristwatch",
+    "Brand": "Tag Heuer",
+    "Price": "$450"
+  },
+  {
+    "ImageUrl": "Image3",
+    "Name": "Smart Bluetooth Speaker",
+    "Brand": "Google LLC",
+    "Price": "$9000"
+  }
+]
