@@ -2,18 +2,21 @@
   {
     "ImageUrl": "https://eduqii.github.io/MarketPlace/MarketPlace/img/ItemsPreview/ipad.png",
     "Name": "Ipad Pro",
+    "Details": "This is detail text",
     "Brand": "Apple Inc.",
     "Price": "$755"
   },
   {
-    "ImageUrl": "https://eduqii.github.io/MarketPlace/MarketPlace/img/ItemsPreview/AppleWatch.png",
+    "ImageUrl": "https://eduqii.github.io/MarketPlace/MarketPlace/img/ItemsPreview/applewatch.png",
     "Name": "Apple Watch Accessories",
+    "Details": "This is detail text",
     "Brand": "Apple Inc.",
     "Price": "$450"
   },
   {
     "ImageUrl": "Image3",
     "Name": "Smart Bluetooth Speaker",
+    "Details": "This is detail text",
     "Brand": "Google LLC",
     "Price": "$9000"
   }
