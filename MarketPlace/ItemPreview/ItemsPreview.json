@@ -4,20 +4,23 @@
     "Name": "Ipad Pro",
     "Detail": "This is detail text",
     "Brand": "Apple Inc.",
-    "Price": "$755"
+    "Price": "$755",
+    "PayPortalL": ""
   },
   {
     "ImageUrl": "https://eduqii.github.io/MarketPlace/MarketPlace/img/ItemsPreview/applewatch.png",
     "Name": "Apple Watch Accessories",
     "Detail": "This is detail text",
     "Brand": "Apple Inc.",
-    "Price": "$450"
+    "Price": "$450",
+    "PayPortalL": ""
   },
   {
     "ImageUrl": "Image3",
     "Name": "Smart Bluetooth Speaker",
     "Detail": "This is detail text",
     "Brand": "Google LLC",
-    "Price": "$9000"
+    "Price": "$9000",
+    "PayPortalL": ""
   }
 ]
