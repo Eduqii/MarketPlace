@@ -5,7 +5,7 @@
     "Detail": "This is detail text",
     "Brand": "Apple Inc.",
     "Price": "$755",
-    "PayPortalL": ""
+    "PayPortalL": "https://flutterwave.com/pay/2lftrpu1l3qg"
   },
   {
     "ImageUrl": "https://eduqii.github.io/MarketPlace/MarketPlace/img/ItemsPreview/applewatch.png",
