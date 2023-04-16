@@ -13,7 +13,7 @@
     "Detail": "This is detail text",
     "Brand": "Apple Inc.",
     "Price": "$450",
-    "PayPortalL": ""
+    "PayPortalL": "https://flutterwave.com/pay/m3ncqkall6xr"
   },
   {
     "ImageUrl": "Image3",
@@ -21,6 +21,6 @@
     "Detail": "This is detail text",
     "Brand": "Google LLC",
     "Price": "$9000",
-    "PayPortalL": ""
+    "PayPortalL": "https://flutterwave.com/pay/yccimuflxvl7"
   }
 ]
