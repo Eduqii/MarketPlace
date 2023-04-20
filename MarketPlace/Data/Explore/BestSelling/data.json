@@ -1,26 +1,26 @@
 [
 	{
 		"ImageUrl": "",
-		"Name": "",
-		"Detail": "",
-		"Brand": "",
-		"Price": "",
+		"Name": "Cow",
+		"Detail": "Best bred cows",
+		"Brand": "N/A",
+		"Price": "7000"
 		"PayPortalL": ""
 	},
 	{
 		"ImageUrl": "",
-		"Name": "",
-		"Detail": "",
-		"Brand": "",
-		"Price": "",
+		"Name": "Ipad Pro
+		"Detail": "Ipads
+		"Brand": "BZ Deals"
+		"Price": "N/A"
 		"PayPortalL": ""
 	},
 	{
 		"ImageUrl": "",
-		"Name": "",
-		"Detail": "",
-		"Brand": "",
-		"Price": "",
+		"Name": "Camel"
+		"Detail": "Best african camel",
+		"Brand": "N/A",
+		"Price": "N/A"
 		"PayPortalL": ""
 	}
 ]
