@@ -1,26 +1,26 @@
 [
 	{
 		"ImageUrl": "",
-		"Name": "ItemName",
-		"Detail": "details details",
-		"Brand": "brand brand",
-		"Price": "25",
+		"Name": "",
+		"Detail": "",
+		"Brand": "",
+		"Price": "",
 		"PayPortalL": ""
 	},
 	{
 		"ImageUrl": "",
-		"Name": "ItemName",
-		"Detail": "This is details",
-		"Brand": "brands",
-		"Price": "23",
+		"Name": "",
+		"Detail": "",
+		"Brand": "",
+		"Price": "",
 		"PayPortalL": ""
 	},
 	{
 		"ImageUrl": "",
-		"Name": "ItemName",
-		"Detail": "This is details details",
-		"Brand": "brand brand",
-		"Price": "23",
+		"Name": "",
+		"Detail": "",
+		"Brand": "",
+		"Price": "",
 		"PayPortalL": ""
 	}
 ]
