@@ -1,6 +1,6 @@
 [
 	{
-		"ImageUrl": "https://eduqii.github.io/MarketPlace/img/ItemsPreview/cow1.jpg",
+		"ImageUrl": "https://eduqii.github.io/MarketPlace/MarketPlace/img/ItemsPreview/cow1.jpg",
 		"Name": "Cow",
 		"Detail": "Best-bred cows",
 		"Brand": "",
@@ -8,7 +8,7 @@
 		"PayPortalL": ""
 	},
 	{
-		"ImageUrl": "https://eduqii.github.io/MarketPlace/img/ItemsPreview/poultry.png",
+		"ImageUrl": "https://eduqii.github.io/MarketPlace/MarketPlace/img/ItemsPreview/poultry.png",
 		"Name": "Fowl",
 		"Detail": "Best-bred fowls",
 		"Brand": "",
@@ -16,7 +16,7 @@
 		"PayPortalL": ""
 	},
 	{
-		"ImageUrl": "https://eduqii.github.io/MarketPlace/img/ItemsPreview/ipad.png",
+		"ImageUrl": "https://eduqii.github.io/MarketPlace/MarketPlace/img/ItemsPreview/ipad.png",
 		"Name": "Ipad",
 		"Detail": "Best mobile device in the market",
 		"Brand": "Apple Inc.",
