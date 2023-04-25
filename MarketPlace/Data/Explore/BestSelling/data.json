@@ -1,10 +1,10 @@
 [
 	{
-		"ImageUrl": "https://eduqii.github.io/MarketPlace/MarketPlace/img/ItemsPreview/cow1.jpg",
+		"ImageUrl": "https://eduqii.github.io/MarketPlace/MarketPlace/img/ItemsPreview/cow3.jpg",
 		"Name": "Cow",
 		"Detail": "Best-bred cows",
 		"Brand": "",
-		"Price": "",
+		"Price": "GHS7000",
 		"PayPortalL": ""
 	},
 	{
@@ -12,7 +12,7 @@
 		"Name": "Fowl",
 		"Detail": "Best-bred fowls",
 		"Brand": "",
-		"Price": "",
+		"Price": "GHS400",
 		"PayPortalL": ""
 	},
 	{
@@ -20,7 +20,7 @@
 		"Name": "Ipad",
 		"Detail": "Best mobile device in the market",
 		"Brand": "Apple Inc.",
-		"Price": "",
+		"Price": "GHS2800",
 		"PayPortalL": ""
 	}
 ]
