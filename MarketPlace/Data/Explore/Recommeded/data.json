@@ -1,26 +1,27 @@
 [
 	{
-		"ImageUrl": "",
-		"Name": "",
-		"Detail": "",
-		"Brand": "",
-		"Price": "",
+		"ImageUrl": "Image2",
+		"Name": "Leather Wristwatch",
+		"Detail": "Best leather watch you can find in the market",
+		"Brand": "Tag Heuer",
+		"Price": "$450",
 		"PayPortalL": ""
 	},
 	{
-		"ImageUrl": "",
-		"Name": "",
-		"Detail": "",
-		"Brand": "",
-		"Price": "",
+		"ImageUrl": "Image3",
+		"Name": "Smart Bluetooth Speaker",
+		"Detail": "This bluetooth speaker is a rare piece in the market.",
+		"Brand": "Google LLC",
+		"Price": "$9000",
 		"PayPortalL": ""
 	},
 	{
-		"ImageUrl": "",
-		"Name": "",
-		"Detail": "",
-		"Brand": "",
-		"Price": "",
+		"ImageUrl": "Image4",
+		"Name": "Smart Luggage",
+		"Detail": "Great package for goods carriage",
+		"Brand": "Smart Inc",
+		"Price": "$1200",
 		"PayPortalL": ""
 	}
+	
 ]
