@@ -1,0 +1,14 @@
+[
+	{
+		"OrderId": "SE25897UYI",
+		"Price": "GHS4500",
+		"Status": "On the way",
+		"NumberOfItems": "2"
+	},
+	{
+		"OrderId": "SE22897UYI",
+		"Price": "GHS7500",
+		"Status": "Packaging",
+		"NumberOfItems": "114"
+	}
+]
