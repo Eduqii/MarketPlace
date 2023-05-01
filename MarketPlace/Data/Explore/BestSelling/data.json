@@ -15,7 +15,7 @@
 		"Brand": "",
 		"Price": "GHS400",
 		"PayPortalL": "",
-		"FavouriteStatus": "star"
+		"FavouriteStatus": "&#xf4d2;"
 	},
 	{
 		"ImageUrl": "https://eduqii.github.io/MarketPlace/MarketPlace/img/ItemsPreview/ipad.png",
@@ -24,6 +24,6 @@
 		"Brand": "Apple Inc.",
 		"Price": "GHS2800",
 		"PayPortalL": "",
-		"FavouriteStatus": "star"
+		"FavouriteStatus": " \xf4d2; "
 	}
 ]
