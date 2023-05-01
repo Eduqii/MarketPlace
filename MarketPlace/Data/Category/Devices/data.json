@@ -1,23 +1,5 @@
 [
 	{
-		"ImageUrl": "https://eduqii.github.io/MarketPlace/MarketPlace/img/ItemsPreview/cow3.jpg",
-		"Name": "Cow",
-		"Detail": "Best-bred cows",
-		"Brand": "",
-		"Price": "GHS7000",
-		"PayPortalL": "",
-		"Status": "Best"
-	},
-	{
-		"ImageUrl": "https://eduqii.github.io/MarketPlace/MarketPlace/img/ItemsPreview/poultry.png",
-		"Name": "Fowl",
-		"Detail": "Best-bred fowls",
-		"Brand": "",
-		"Price": "GHS400",
-		"PayPortalL": "",
-		"Status": "Best"
-	},
-	{
 		"ImageUrl": "https://eduqii.github.io/MarketPlace/MarketPlace/img/ItemsPreview/ipad.png",
 		"Name": "Ipad",
 		"Detail": "Best mobile device in the market",
