@@ -6,7 +6,7 @@
 		"Brand": "",
 		"Price": "GHS7000",
 		"PayPortalL": "",
-		"FavouriteStatus": "&#xf4d2;"
+		"FavouriteStatus": "star"
 	},
 	{
 		"ImageUrl": "https://eduqii.github.io/MarketPlace/MarketPlace/img/ItemsPreview/poultry.png",
@@ -15,7 +15,7 @@
 		"Brand": "",
 		"Price": "GHS400",
 		"PayPortalL": "",
-		"FavouriteStatus": "&#xf4d2;"
+		"FavouriteStatus": "star"
 	},
 	{
 		"ImageUrl": "https://eduqii.github.io/MarketPlace/MarketPlace/img/ItemsPreview/ipad.png",
@@ -24,6 +24,6 @@
 		"Brand": "Apple Inc.",
 		"Price": "GHS2800",
 		"PayPortalL": "",
-		"FavouriteStatus": "&#xf4d2;"
+		"FavouriteStatus": "star"
 	}
 ]
