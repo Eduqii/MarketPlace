@@ -5,7 +5,8 @@
 		"Detail": "Best-bred cows",
 		"Brand": "",
 		"Price": "GHS7000",
-		"PayPortalL": ""
+		"PayPortalL": "",
+		"FavouriteStatus": "&#xf4d2;"
 	},
 	{
 		"ImageUrl": "https://eduqii.github.io/MarketPlace/MarketPlace/img/ItemsPreview/poultry.png",
@@ -13,7 +14,8 @@
 		"Detail": "Best-bred fowls",
 		"Brand": "",
 		"Price": "GHS400",
-		"PayPortalL": ""
+		"PayPortalL": "",
+		"FavouriteStatus": "&#xf4d2;"
 	},
 	{
 		"ImageUrl": "https://eduqii.github.io/MarketPlace/MarketPlace/img/ItemsPreview/ipad.png",
@@ -21,6 +23,7 @@
 		"Detail": "Best mobile device in the market",
 		"Brand": "Apple Inc.",
 		"Price": "GHS2800",
-		"PayPortalL": ""
+		"PayPortalL": "",
+		"FavouriteStatus": "&#xf4d2;"
 	}
 ]
