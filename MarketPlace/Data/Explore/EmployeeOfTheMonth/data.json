@@ -17,10 +17,10 @@
 	},
 	{
 		"ImageUrl": "User1",
-		"Name": "Kofi",
-		"Detail": "",
-		"Brand": "Luxury Sylvester Luxuries",
-		"Price": "",
+		"Name": "Username",
+		"Detail": "Some detail",
+		"Brand": "brand",
+		"Price": "Price",
 		"PayPortalL": ""
 	}
 ]
