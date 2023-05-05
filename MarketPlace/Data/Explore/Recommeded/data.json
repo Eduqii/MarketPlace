@@ -5,7 +5,8 @@
 		"Detail": "Best leather watch you can find in the market",
 		"Brand": "Tag Heuer",
 		"Price": "$450",
-		"PayPortalL": ""
+		"PayPortalL": "",
+		"Status": ""
 	},
 	{
 		"ImageUrl": "Image3",
@@ -13,7 +14,8 @@
 		"Detail": "This bluetooth speaker is a rare piece in the market.",
 		"Brand": "Google LLC",
 		"Price": "$9000",
-		"PayPortalL": ""
+		"PayPortalL": "",
+		"Status": ""
 	},
 	{
 		"ImageUrl": "Image4",
@@ -21,7 +23,8 @@
 		"Detail": "Great ambient ear buds",
 		"Brand": "BZ DEALS INC.",
 		"Price": "$1200",
-		"PayPortalL": ""
+		"PayPortalL": "",
+		"Status": ""
 	}
 	
 ]
