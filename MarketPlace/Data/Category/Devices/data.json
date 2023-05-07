@@ -6,7 +6,8 @@
 		"Brand": "Apple Inc.",
 		"Price": "GHS2800",
 		"PayPortalL": "",
-		"Status": "Recommended"
+		"Status": "Recommended",
+		"Numbers": 0
 	},
 	{
 		"ImageUrl": "Image2",
@@ -15,7 +16,8 @@
 		"Brand": "Tag Heuer",
 		"Price": "$450",
 		"PayPortalL": "",
-		"Status": "None"
+		"Status": "None",
+		"Numbers": 0
 	},
 	{
 		"ImageUrl": "Image3",
@@ -24,7 +26,8 @@
 		"Brand": "Google LLC",
 		"Price": "$9000",
 		"PayPortalL": "",
-		"Status": "Recommended"
+		"Status": "Recommended",
+		"Numbers": 0
 	},
 	{
 		"ImageUrl": "Image4",
@@ -33,6 +36,7 @@
 		"Brand": "BZ DEALS INC.",
 		"Price": "$1200",
 		"PayPortalL": "",
-		"Status": "None"
+		"Status": "None",
+		"Numbers": 0
 	}
 ]
