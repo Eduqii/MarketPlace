@@ -7,7 +7,7 @@
 		"Price": "GHS2800",
 		"PayPortalL": "",
 		"Status": "Recommended",
-		"Numbers": 0
+		"Numbers": 1
 	},
 	{
 		"ImageUrl": "Image2",
@@ -17,7 +17,7 @@
 		"Price": "$450",
 		"PayPortalL": "",
 		"Status": "None",
-		"Numbers": 0
+		"Numbers": 1
 	},
 	{
 		"ImageUrl": "Image3",
@@ -27,7 +27,7 @@
 		"Price": "$9000",
 		"PayPortalL": "",
 		"Status": "Recommended",
-		"Numbers": 0
+		"Numbers": 1
 	},
 	{
 		"ImageUrl": "Image4",
@@ -37,6 +37,6 @@
 		"Price": "$1200",
 		"PayPortalL": "",
 		"Status": "None",
-		"Numbers": 0
+		"Numbers": 1
 	}
 ]
