@@ -4,39 +4,39 @@
 		"Name": "Ipad",
 		"Detail": "Best mobile device in the market",
 		"Brand": "Apple Inc.",
-		"Price": "GHS2800",
+		"Currency": "GHS"
+		"Price": 2800,
 		"PayPortalL": "",
-		"Status": "Recommended",
-		"Numbers": 1
+		"Status": "Recommended"
 	},
 	{
 		"ImageUrl": "Image2",
 		"Name": "Leather Wristwatch",
 		"Detail": "Best leather watch you can find in the market",
 		"Brand": "Tag Heuer",
-		"Price": "$450",
+		"Currency": "$",
+		"Price": 450,
 		"PayPortalL": "",
-		"Status": "None",
-		"Numbers": 1
+		"Status": "None"
 	},
 	{
 		"ImageUrl": "Image3",
 		"Name": "Smart Bluetooth Speaker",
 		"Detail": "This bluetooth speaker is a rare piece in the market.",
 		"Brand": "Google LLC",
-		"Price": "$9000",
+		"Currency": "$",
+		"Price": 9000,
 		"PayPortalL": "",
-		"Status": "Recommended",
-		"Numbers": 1
+		"Status": "Recommended"
 	},
 	{
 		"ImageUrl": "Image4",
 		"Name": "Smart ear buds",
 		"Detail": "Great ambient ear buds",
 		"Brand": "BZ DEALS INC.",
-		"Price": "$1200",
+		"Currency": "$",
+		"Price": 1200,
 		"PayPortalL": "",
-		"Status": "None",
-		"Numbers": 1
+		"Status": "None"
 	}
 ]
