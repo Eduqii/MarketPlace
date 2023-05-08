@@ -4,29 +4,29 @@
 		"Name": "Cow",
 		"Detail": "Best-bred cows",
 		"Brand": "",
-		"Price": "GHS7000",
+		"Currency": "GHS",
+		"Price": 7000,
 		"PayPortalL": "https://flutterwave.com/pay/2lftrpu1l3qg",
-		"Status": "",
-		"Numbers": 1
+		"Status": ""
 	},
 	{
 		"ImageUrl": "https://eduqii.github.io/MarketPlace/MarketPlace/img/ItemsPreview/poultry.png",
 		"Name": "Fowl",
 		"Detail": "Best-bred fowls",
 		"Brand": "",
-		"Price": "GHS400",
+		"Currency": "GHS",
+		"Price": 400,
 		"PayPortalL": "https://google.com/",
-		"Status": "",
-		"Numbers": 1
+		"Status": ""
 	},
 	{
 		"ImageUrl": "https://eduqii.github.io/MarketPlace/MarketPlace/img/ItemsPreview/ipad.png",
 		"Name": "Ipad",
 		"Detail": "Best mobile device in the market",
 		"Brand": "Apple Inc.",
-		"Price": "GHS2800",
+		"Currency": "GHS",
+		"Price": 2800,
 		"PayPortalL": "",
-		"Status": "",
-		"Numbers": 1
+		"Status": ""
 	}
 ]
