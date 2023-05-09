@@ -4,7 +4,8 @@
 		"Name": "Ipad",
 		"Detail": "Best mobile device in the market.",
 		"Brand": "Apple Inc.",
-		"Price": "GHS2800",
+		"Currency": "GHS",
+		"Price": 2800,
 		"PayPortalL": "",
 		"Status": "Recommended"
 	},
@@ -13,7 +14,8 @@
 		"Name": "Leather Wristwatch",
 		"Detail": "Best leather watch you can find in the market",
 		"Brand": "Tag Heuer",
-		"Price": "$450",
+		"Currency": "$",
+		"Price": 450,
 		"PayPortalL": "",
 		"Status": "None"
 	},
@@ -22,7 +24,8 @@
 		"Name": "Smart Bluetooth Speaker",
 		"Detail": "This bluetooth speaker is a rare piece in the market.",
 		"Brand": "Google LLC",
-		"Price": "$9000",
+		"Currency": "$",
+		"Price": 9000,
 		"PayPortalL": "",
 		"Status": "Recommended"
 	},
@@ -31,7 +34,8 @@
 		"Name": "Smart ear buds",
 		"Detail": "Great ambient ear buds",
 		"Brand": "BZ DEALS INC.",
-		"Price": "$1200",
+		"Currency": "$",
+		"Price": 1200,
 		"PayPortalL": "",
 		"Status": "None"
 	}
