@@ -20,10 +20,10 @@
 		"Status": "None"
 	},
 	{
-		"ImageUrl": "Image3",
-		"Name": "Smart Bluetooth Speaker",
+		"ImageUrl": "Image1",
+		"Name": "BeoPlay Speaker",
 		"Detail": "This bluetooth speaker is a rare piece in the market.",
-		"Brand": "Google LLC",
+		"Brand": "Bang and Olufsen",
 		"Currency": "$",
 		"Price": 9000,
 		"PayPortalL": "",
