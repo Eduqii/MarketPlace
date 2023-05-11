@@ -1,0 +1,42 @@
+[
+	{
+		"ImageUrl": "https://eduqii.github.io/MarketPlace/MarketPlace/img/ItemsPreview/ipad.png",
+		"Name": "Ipad",
+		"Detail": "Best mobile device in the market",
+		"Brand": "Apple Inc.",
+		"Currency": "GHS",
+		"Price": 2800,
+		"PayPortalL": "",
+		"Status": "Recommended"
+	},
+	{
+		"ImageUrl": "Image2",
+		"Name": "Leather Wristwatch",
+		"Detail": "Best leather watch you can find in the market",
+		"Brand": "Tag Heuer",
+		"Currency": "$",
+		"Price": 450,
+		"PayPortalL": "",
+		"Status": "None"
+	},
+	{
+		"ImageUrl": "Image3",
+		"Name": "Smart Bluetooth Speaker",
+		"Detail": "This bluetooth speaker is a rare piece in the market.",
+		"Brand": "Google LLC",
+		"Currency": "$",
+		"Price": 9000,
+		"PayPortalL": "",
+		"Status": "Recommended"
+	},
+	{
+		"ImageUrl": "Image4",
+		"Name": "Smart ear buds",
+		"Detail": "Great ambient ear buds",
+		"Brand": "BZ DEALZ Inc.",
+		"Currency": "$",
+		"Price": 1200,
+		"PayPortalL": "",
+		"Status": "None"
+	}
+]
