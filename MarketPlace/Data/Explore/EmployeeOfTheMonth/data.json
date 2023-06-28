@@ -1,19 +1,19 @@
 [
 	{
 		"ImageUrl": "Avatar",
-		"Name": "Kwaku",
+		"Name": "Username",
 		"Detail": "",
 		"DetailMore": "",
-		"Brand": "Pounds Inc.",
+		"Brand": "brand",
 		"Price": "",
 		"PayPortalL": ""
 	},
 	{
 		"ImageUrl": "Image10",
-		"Name": "Kwame",
+		"Name": "Username",
 		"Detail": "",
 		"DetailMore": "",
-		"Brand": "Benit-Apollo Solutions",
+		"Brand": "brand",
 		"Price": "",
 		"PayPortalL": ""
 	},
