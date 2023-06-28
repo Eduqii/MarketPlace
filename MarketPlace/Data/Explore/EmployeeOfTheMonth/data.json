@@ -3,6 +3,7 @@
 		"ImageUrl": "Avatar",
 		"Name": "Kwaku",
 		"Detail": "",
+		"DetailMore": "",
 		"Brand": "Pounds Inc.",
 		"Price": "",
 		"PayPortalL": ""
@@ -11,6 +12,7 @@
 		"ImageUrl": "Image10",
 		"Name": "Kwame",
 		"Detail": "",
+		"DetailMore": "",
 		"Brand": "Benit-Apollo Solutions",
 		"Price": "",
 		"PayPortalL": ""
@@ -19,6 +21,7 @@
 		"ImageUrl": "User1",
 		"Name": "Username",
 		"Detail": "Some detail",
+		"DetailMore": "Some detail more",
 		"Brand": "brand",
 		"Price": "Price",
 		"PayPortalL": ""
