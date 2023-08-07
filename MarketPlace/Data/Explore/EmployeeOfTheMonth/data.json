@@ -2,23 +2,23 @@
 	{
 		"ImageUrl": "Avatar",
 		"Name": "Username",
-		"Detail": "",
+		"Detail": "Some detail",
 		"DetailMore": "",
 		"Brand": "brand",
 		"Price": "",
 		"PayPortalL": ""
 	},
 	{
-		"ImageUrl": "Image10",
+		"ImageUrl": "Avatar",
 		"Name": "Username",
-		"Detail": "",
+		"Detail": "Some detail",
 		"DetailMore": "",
 		"Brand": "brand",
 		"Price": "",
 		"PayPortalL": ""
 	},
 	{
-		"ImageUrl": "User1",
+		"ImageUrl": "Avatar",
 		"Name": "Username",
 		"Detail": "Some detail",
 		"DetailMore": "Some more detail",
