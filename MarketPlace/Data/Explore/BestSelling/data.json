@@ -7,7 +7,7 @@
 		"Brand": "",
 		"Currency": "GHS",
 		"Price": 7000,
-		"PayPortalL": "https://flutterwave.com/pay/2lftrpu1l3qg",
+		"PayPortalL": "https://flutterwave.com/pay/m3ncqkall6xr",
 		"Status": ""
 	},
 	{
@@ -18,7 +18,7 @@
 		"Brand": "",
 		"Currency": "GHS",
 		"Price": 400,
-		"PayPortalL": "https://google.com/",
+		"PayPortalL": "https://flutterwave.com/pay/yccimuflxvl7",
 		"Status": ""
 	},
 	{
@@ -26,10 +26,10 @@
 		"Name": "Ipad",
 		"Detail": "Best mobile device",
 		"DetailMore": "Best mobile device in the market",
-		"Brand": "Apple Inc.",
-		"Currency": "GHS",
-		"Price": 2800,
-		"PayPortalL": "",
+		"Brand": "BZ Deals Inc.",
+		"Currency": "$",
+		"Price": 400,
+		"PayPortalL": "https://flutterwave.com/pay/qvn4r6vezok8",
 		"Status": ""
 	}
 ]
