@@ -2,9 +2,9 @@
 	{
 		"ImageUrl": "https://eduqii.github.io/MarketPlace/MarketPlace/img/ItemsPreview/ipad.png",
 		"Name": "Ipad",
-		"Detail": "Best mobile device in the market",
+		"Detail": "Best Care",
 		"Brand": "Apple Inc.",
-		"Currency": "GHS",
+		"Currency": "$",
 		"Price": 2800,
 		"PayPortalL": "",
 		"Status": "Recommended"
@@ -13,7 +13,7 @@
 		"ImageUrl": "Image2",
 		"Name": "Leather Wristwatch",
 		"Detail": "Best leather watch you can find in the market",
-		"Brand": "Tag Heuer",
+		"Brand": "Tag Heuer / At&t",
 		"Currency": "$",
 		"Price": 450,
 		"PayPortalL": "",
