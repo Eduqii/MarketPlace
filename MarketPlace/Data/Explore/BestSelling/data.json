@@ -6,7 +6,7 @@
 		"DetailMore": "Best-bred cows in the market.",
 		"Brand": "",
 		"Currency": "$",
-		"Price": 900,
+		"Price": 400,
 		"PayPortalL": "https://flutterwave.com/pay/m3ncqkall6xr",
 		"Status": ""
 	},
@@ -17,7 +17,7 @@
 		"DetailMore": "Best-bred fowls in the market",
 		"Brand": "",
 		"Currency": "GHS",
-		"Price": 400,
+		"Price": 350,
 		"PayPortalL": "https://flutterwave.com/pay/yccimuflxvl7",
 		"Status": ""
 	},
@@ -28,7 +28,7 @@
 		"DetailMore": "Best mobile device in the market",
 		"Brand": "Apple Inc.",
 		"Currency": "$",
-		"Price": 400,
+		"Price": 200,
 		"PayPortalL": "https://flutterwave.com/pay/qvn4r6vezok8",
 		"Status": ""
 	}
